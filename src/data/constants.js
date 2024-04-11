@@ -221,7 +221,7 @@ export const projects = [
   },  {
     id: 3,
     title: "Expense Tracker",
-    date: "Jan 2023 - Jan 2023",
+    date: "Jan 2024 - Jan 2024",
     description:
       " Crafted an Expense Tracker utilizing the Context API within a React environment. This project enables seamless management of personal finances by providing a user-friendly interface to add, categorize, and track expenses. Leveraging the Context API ensures efficient state management across components, enhancing scalability and maintainability. Users can easily view their spending habits and generate insightful reports, fostering better financial awareness and decision-making. This project exemplifies proficiency in React development and state management techniques, offering a practical solution for personal finance management.",
     image: "https://snipboard.io/AciSqI.jpg",
@@ -232,12 +232,22 @@ export const projects = [
   {
     id: 3,
     title: "Fibery",
-    date: "March 2023 - March 2023",
+    date: "March 2024 - March 2024",
     description:
   "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
     image: "https://snipboard.io/5jBthV.jpg",
-    tags: ["React Js","Context API"],
+    tags: ["React Js","Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Fibery",
     webapp: "https://fiberysoftware.netlify.app/",
+  },
+   {
+    id: 4,
+    title: "Calendly",
+    date: "March 2024 - March 2024",
+    description:
+ "Our project focuses on revolutionizing scheduling processes through the implementation of automated solutions. By developing routing forms, we have streamlined interactions, providing businesses with a seamless way to connect with clients, students, or customers. These forms serve to screen and qualify website visitors or invitees, ensuring only the highest quality connections are made. Additionally, our emphasis on responsive design principles guarantees optimal user experience across various devices, with a navigation bar that adjusts effortlessly to different screen sizes. Through visually engaging components like the hero section and carousel, we effectively communicate the benefits and features of our routing forms, driving increased engagement and conversions. With social media integration and tailored animation effects, our platform stands at the forefront of modern scheduling solutions, offering a comprehensive and compelling user experience."
+    tags: ["React Js","Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Calendly",
+    webapp: "https://calendlysoftware.netlify.app/",
   },
 ];
