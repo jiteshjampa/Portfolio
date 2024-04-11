@@ -218,5 +218,26 @@ export const projects = [
     tags: ["Spring Boot", "Mongo DB", "Swagger API"],
     github: "https://github.com/jiteshjampa/JobHiring",
     webapp: "https://github.com/jiteshjampa/JobHiring",
+  },  {
+    id: 3,
+    title: "Expense Tracker",
+    date: "Jan 2023 - Jan 2023",
+    description:
+      " Crafted an Expense Tracker utilizing the Context API within a React environment. This project enables seamless management of personal finances by providing a user-friendly interface to add, categorize, and track expenses. Leveraging the Context API ensures efficient state management across components, enhancing scalability and maintainability. Users can easily view their spending habits and generate insightful reports, fostering better financial awareness and decision-making. This project exemplifies proficiency in React development and state management techniques, offering a practical solution for personal finance management.",
+    image: "https://snipboard.io/AciSqI.jpg",
+    tags: ["React Js","Context API"],
+    github: "https://github.com/jiteshjampa/Expense-Tracker",
+    webapp: "https://expense-tracker-jitesh.netlify.app/",
+  },
+  {
+    id: 3,
+    title: "Fibery",
+    date: "March 2023 - March 2023",
+    description:
+  "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
+    image: "https://snipboard.io/5jBthV.jpg",
+    tags: ["React Js","Context API"],
+    github: "https://github.com/jiteshjampa/Fibery",
+    webapp: "https://fiberysoftware.netlify.app/",
   },
 ];
