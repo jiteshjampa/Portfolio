@@ -230,7 +230,7 @@ export const projects = [
     webapp: "https://expense-tracker-jitesh.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Fibery",
     date: "March 2024 - March 2024",
     description:
@@ -241,7 +241,7 @@ export const projects = [
     webapp: "https://fiberysoftware.netlify.app/",
   },
    {
-    id: 4,
+    id: 5,
     title: "Calendly",
     date: "March 2024 - March 2024",
     description:
