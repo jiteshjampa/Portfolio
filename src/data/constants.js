@@ -175,7 +175,20 @@ export const education = [
 ];
 
 export const projects = [
-  {
+ 
+ 
+   {
+    id: 5,
+    title: "Calendly",
+    date: "March 2024 - March 2024",
+    description:
+ "Our project focuses on revolutionizing scheduling processes through the implementation of automated solutions. By developing routing forms, we have streamlined interactions, providing businesses with a seamless way to connect with clients, students, or customers. These forms serve to screen and qualify website visitors or invitees, ensuring only the highest quality connections are made. Additionally, our emphasis on responsive design principles guarantees optimal user experience across various devices, with a navigation bar that adjusts effortlessly to different screen sizes. Through visually engaging components like the hero section and carousel, we effectively communicate the benefits and features of our routing forms, driving increased engagement and conversions. With social media integration and tailored animation effects, our platform stands at the forefront of modern scheduling solutions, offering a comprehensive and compelling user experience.",
+     image: "https://snipboard.io/5jnEVQ.jpg",
+     tags: ["React Js","Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Calendly",
+    webapp: "https://calendlysoftware.netlify.app/",
+  },
+   {
     id: 9,
     title: "NikeWebsite",
     date: "Jan 2024 - Jan 2024",
@@ -185,6 +198,16 @@ export const projects = [
     tags: ["Docker", "React", "Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Nike-Website",
     webapp: "https://nike-elite-feet.netlify.app/",
+  }, {
+    id: 4,
+    title: "Fibery",
+    date: "March 2024 - March 2024",
+    description:
+  "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
+    image: "https://snipboard.io/5jBthV.jpg",
+    tags: ["React Js","Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Fibery",
+    webapp: "https://fiberysoftware.netlify.app/",
   },
   {
     id: 0,
@@ -229,26 +252,5 @@ export const projects = [
     github: "https://github.com/jiteshjampa/Expense-Tracker",
     webapp: "https://expense-tracker-jitesh.netlify.app/",
   },
-  {
-    id: 4,
-    title: "Fibery",
-    date: "March 2024 - March 2024",
-    description:
-  "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
-    image: "https://snipboard.io/5jBthV.jpg",
-    tags: ["React Js","Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/Fibery",
-    webapp: "https://fiberysoftware.netlify.app/",
-  },
-   {
-    id: 5,
-    title: "Calendly",
-    date: "March 2024 - March 2024",
-    description:
- "Our project focuses on revolutionizing scheduling processes through the implementation of automated solutions. By developing routing forms, we have streamlined interactions, providing businesses with a seamless way to connect with clients, students, or customers. These forms serve to screen and qualify website visitors or invitees, ensuring only the highest quality connections are made. Additionally, our emphasis on responsive design principles guarantees optimal user experience across various devices, with a navigation bar that adjusts effortlessly to different screen sizes. Through visually engaging components like the hero section and carousel, we effectively communicate the benefits and features of our routing forms, driving increased engagement and conversions. With social media integration and tailored animation effects, our platform stands at the forefront of modern scheduling solutions, offering a comprehensive and compelling user experience.",
-     image: "https://snipboard.io/5jnEVQ.jpg",
-     tags: ["React Js","Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/Calendly",
-    webapp: "https://calendlysoftware.netlify.app/",
-  },
+  
 ];
