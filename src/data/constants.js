@@ -184,7 +184,7 @@ export const education = [
 export const projects = [
  
  
-   {
+  /* {
     id: 5,
     title: "Calendly",
     date: "March 2024 - March 2024",
@@ -194,7 +194,7 @@ export const projects = [
      tags: ["React Js","Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Calendly",
     webapp: "https://calendlysoftware.netlify.app/",
-  },
+  } */,
    {
     id: 9,
     title: "NikeWebsite",
@@ -205,7 +205,7 @@ export const projects = [
     tags: ["Docker", "React", "Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Nike-Website",
     webapp: "https://nike-elite-feet.netlify.app/",
-  }, {
+  }, /*{
     id: 4,
     title: "Fibery",
     date: "March 2024 - March 2024",
@@ -215,7 +215,7 @@ export const projects = [
     tags: ["React Js","Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Fibery",
     webapp: "https://fiberysoftware.netlify.app/",
-  },
+  }*/,
   {
     id: 0,
     title: "ForYourCare",
@@ -248,7 +248,9 @@ export const projects = [
     tags: ["Spring Boot", "Mongo DB", "Swagger API"],
     github: "https://github.com/jiteshjampa/JobHiring",
     webapp: "https://github.com/jiteshjampa/JobHiring",
-  },  {
+  },
+   
+  {
     id: 3,
     title: "Expense Tracker",
     date: "Jan 2024 - Jan 2024",
@@ -259,5 +261,15 @@ export const projects = [
     github: "https://github.com/jiteshjampa/Expense-Tracker",
     webapp: "https://expense-tracker-jitesh.netlify.app/",
   },
-  
+  {
+    id: 6,
+    title: "Cratee Coding",
+    date: "Mar 2024 - Apr 2024",
+    description:
+      "This project is a comprehensive platform catering to coding enthusiasts, offering a variety of competitive challenges through coding contests and educational resources via programming courses. ",
+    image: "https://snipboard.io/x4jcoq.jpg",
+    tags: ["HTML","CSS","Javascript"],
+    github: "https://github.com/jiteshjampa/VeriTechTask2",
+    webapp: "https://crattecoding.netlify.app/",
+  },
 ];
