@@ -133,8 +133,7 @@ export const experiences = [
     role: "Web Development Intern",
     company: "VeriTech Software.",
     date: "March 2024 - April 2024",
-    desc: " Utilized advanced frontend techniques like lazy loading and
-infinite scrolling, coupled with React and Tailwind CSS, to op-
+    desc: " Utilized advanced frontend techniques like lazy loading and infinite scrolling with React and Tailwind CSS, to op-
 timize performance and create dynamic interfaces..",
     skills: ["HTML", "Tailwind CSS", "JavaScript","React","Axios"],
   },
