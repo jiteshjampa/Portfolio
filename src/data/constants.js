@@ -61,15 +61,13 @@ export const skills = [
     title: "Backend",
     skills: [
       {
+        name: "Node Js",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
+      },
+      {
         name: "Spring Boot",
         image:
           "https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png",
-      },
-
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
         name: "MySQL",
@@ -82,10 +80,7 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      },
+      
     ],
   },
 
@@ -132,8 +127,19 @@ export const skills = [
 ];
 
 export const experiences = [
-  {
+   {
     id: 0,
+
+    role: "Web Development Intern",
+    company: "VeriTech Software.",
+    date: "March 2024 - April 2024",
+    desc: " Utilized advanced frontend techniques like lazy loading and
+infinite scrolling, coupled with React and Tailwind CSS, to op-
+timize performance and create dynamic interfaces..",
+    skills: ["HTML", "Tailwind CSS", "JavaScript","React","Axios"],
+  },
+  {
+    id: 1,
 
     role: "Software Development Engineer Intern",
     company: "ITJOBXS.",
@@ -141,6 +147,7 @@ export const experiences = [
     desc: "Worked on User Verification/Authentication + Engineering challenges of detecting and removing the fake bots and posts..",
     skills: ["HTML", "CSS", "BOOTSTRAP", "JavaScript", "PHP", "MYSQL"],
   },
+  
 ];
 
 export const education = [
