@@ -182,7 +182,7 @@ export const education = [
 export const projects = [
  
  
-  /* {
+   {
     id: 5,
     title: "Calendly",
     date: "March 2024 - March 2024",
@@ -192,7 +192,7 @@ export const projects = [
      tags: ["React Js","Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Calendly",
     webapp: "https://calendlysoftware.netlify.app/",
-  } */,
+  } ,
    {
     id: 9,
     title: "NikeWebsite",
@@ -203,7 +203,7 @@ export const projects = [
     tags: ["Docker", "React", "Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Nike-Website",
     webapp: "https://nike-elite-feet.netlify.app/",
-  }, /*{
+  }, {
     id: 4,
     title: "Fibery",
     date: "March 2024 - March 2024",
@@ -213,7 +213,7 @@ export const projects = [
     tags: ["React Js","Tailwind CSS"],
     github: "https://github.com/jiteshjampa/Fibery",
     webapp: "https://fiberysoftware.netlify.app/",
-  }*/,
+  },
   {
     id: 0,
     title: "ForYourCare",
