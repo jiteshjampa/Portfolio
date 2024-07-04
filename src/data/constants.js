@@ -193,6 +193,16 @@ export const projects = [
     github: "https://github.com/jiteshjampa/Calendly",
     webapp: "https://calendlysoftware.netlify.app/",
   } ,
+  {
+    id: 7,
+    title: "BookUsNow",
+    date: "March 2024 - March 2024",
+    description:"Experience faster initial page load times with lazy loading, which enhances performance by delaying non-essential resources until needed. Browse seamlessly with infinite scrolling, automatically loading more content as you scroll. Enjoy a user-friendly navigation bar with categories, search functionality, favorites, and sign-in options. The responsive design adapts to desktops, tablets, and mobile phones for a consistent experience. Additionally, a loader animation indicates data fetching, and Axios is used for asynchronous HTTP requests to fetch event data from external APIs.",
+     image: "https://snipboard.io/jRwSh9.jpg",
+     tags: ["React Js","Tailwind CSS","Axios"],
+    github: "https://github.com/jiteshjampa/GyanGroveAssignment",
+    webapp: "https://gyangroveevents.netlify.app/",
+  },
    {
     id: 9,
     title: "NikeWebsite",
