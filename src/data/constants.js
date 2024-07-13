@@ -65,11 +65,6 @@ export const skills = [
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
       },
       {
-        name: "Spring Boot",
-        image:
-          "https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png",
-      },
-      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -132,7 +127,7 @@ export const experiences = [
 
     role: "Web Development Intern",
     company: "VeriTech Software.",
-    date: "March 2024 - April 2024",
+    date: "Feb 2024 - April 2024",
     desc: "Utilized advanced frontend techniques like lazy loading and infinite scrolling with React and Tailwind CSS, to optimize performance and create dynamic interfaces..",
     skills: ["HTML", "Tailwind CSS", "JavaScript","React","Axios"],
   },
