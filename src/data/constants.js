@@ -176,18 +176,27 @@ export const education = [
 
 export const projects = [
  
- 
-   {
-    id: 5,
-    title: "Calendly",
-    date: "March 2024 - March 2024",
+  {
+     id: 5,
+    title: "DineDelight",
+    date: "July 2024 - July 2024",
     description:
- "Our project focuses on revolutionizing scheduling processes through the implementation of automated solutions. By developing routing forms, we have streamlined interactions, providing businesses with a seamless way to connect with clients, students, or customers. These forms serve to screen and qualify website visitors or invitees, ensuring only the highest quality connections are made. Additionally, our emphasis on responsive design principles guarantees optimal user experience across various devices, with a navigation bar that adjusts effortlessly to different screen sizes. Through visually engaging components like the hero section and carousel, we effectively communicate the benefits and features of our routing forms, driving increased engagement and conversions. With social media integration and tailored animation effects, our platform stands at the forefront of modern scheduling solutions, offering a comprehensive and compelling user experience.",
-     image: "https://snipboard.io/5jnEVQ.jpg",
-     tags: ["React Js","Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/Calendly",
-    webapp: "https://calendlysoftware.netlify.app/",
-  } ,
+ "DineDelight is a comprehensive food ordering application that enhances your dining experience with a seamless interface and robust features. Users can easily register and log in, securing their accounts with JWT authentication and bcrypt encryption.The app showcases a wide variety of dishes through a visually appealing UI, allowing users to search for their favorite foods, add items to their cart, and place orders.The app also includes order history tracking and responsive design, ensuring a delightful experience on any device",
+     image: "https://snipboard.io/ntlVvm.jpg",
+     tags: ["React Js","Tailwind CSS", "Redux","Node Js","Express Js","Mongo DB","JWT"],
+    github: "https://github.com/jiteshjampa/dine-delight",
+    webapp: "https://dine-delight.vercel.app/",
+  }, {
+    id: 1,
+    title: "ERP System",
+    date: "March 2024-March 2024",
+    description:
+      "Developed an intuitive ERP system interfaceleveraging React and React Router, facilitating efficient management of business operations.Implemented modular components for Dashboard, Products Management, and OrdersManagement, Order Calender View enhancing scalability and ease of maintenance and responsive design.",
+    image: "https://snipboard.io/ZbeuVB.jpg",
+    tags: ["React Js", "Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/ENTNT_Assignment",
+    webapp: "https://entnt-assignment-five.vercel.app/",
+  },
   {
     id: 7,
     title: "BookUsNow",
@@ -199,27 +208,6 @@ export const projects = [
     webapp: "https://gyangroveevents.netlify.app/",
   },
    {
-    id: 9,
-    title: "NikeWebsite",
-    date: "Jan 2024 - Jan 2024",
-    description:
-      " Responsive design for a seamless experience across all devices.Dynamic content powered by React hooks and state management.Stunning UI crafted with the power of Tailwind CSS and deployed on docker hub also using docker",
-    image: "https://snipboard.io/bipgv0.jpg",
-    tags: ["Docker", "React", "Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/Nike-Website",
-    webapp: "https://nike-elite-feet.netlify.app/",
-  }, {
-    id: 4,
-    title: "Fibery",
-    date: "March 2024 - March 2024",
-    description:
-  "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
-    image: "https://snipboard.io/5jBthV.jpg",
-    tags: ["React Js","Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/Fibery",
-    webapp: "https://fiberysoftware.netlify.app/",
-  },
-  {
     id: 0,
     title: "ForYourCare",
     date: "Jan 2023 - Feb 2023",
@@ -230,17 +218,41 @@ export const projects = [
     github: "https://github.com/jiteshjampa/ForYourCare",
     webapp: "https://foryourcare.netlify.app/",
   },
-  {
-    id: 1,
-    title: "ERP System",
-    date: "March 2024-March 2024",
+   {
+    id: 4,
+    title: "Fibery",
+    date: "March 2024 - March 2024",
     description:
-      "Developed an intuitive ERP system interfaceleveraging React and React Router, facilitating efficient management of business operations.Implemented modular components for Dashboard, Products Management, and OrdersManagement, Order Calender View enhancing scalability and ease of maintenance and responsive design.",
-    image: "https://snipboard.io/ZbeuVB.jpg",
-    tags: ["React Js", "Tailwind CSS"],
-    github: "https://github.com/jiteshjampa/ENTNT_Assignment",
-    webapp: "https://entnt-assignment-five.vercel.app/",
+  "Proficiently developed a multi-form project focused on optimizing meeting scheduling processes. The intuitive interface guides users through a seamless experience, beginning with date and month selection via a calendar display. Upon date selection, the interface dynamically reveals options for choosing meeting times. Subsequently, users are prompted to provide essential details including name, email, and other pertinent information in the second form. Finally, the third form presents a clear confirmation of the scheduled meeting, displaying the chosen date, time, and location. This project showcases strong expertise in React development, form management, and user interface design, enhancing collaboration and workflow efficiency.",
+    image: "https://snipboard.io/5jBthV.jpg",
+    tags: ["React Js","Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Fibery",
+    webapp: "https://fiberysoftware.netlify.app/",
   },
+   {
+    id: 5,
+    title: "Calendly",
+    date: "March 2024 - March 2024",
+    description:
+ "Our project focuses on revolutionizing scheduling processes through the implementation of automated solutions. By developing routing forms, we have streamlined interactions, providing businesses with a seamless way to connect with clients, students, or customers. These forms serve to screen and qualify website visitors or invitees, ensuring only the highest quality connections are made. Additionally, our emphasis on responsive design principles guarantees optimal user experience across various devices, with a navigation bar that adjusts effortlessly to different screen sizes. Through visually engaging components like the hero section and carousel, we effectively communicate the benefits and features of our routing forms, driving increased engagement and conversions. With social media integration and tailored animation effects, our platform stands at the forefront of modern scheduling solutions, offering a comprehensive and compelling user experience.",
+     image: "https://snipboard.io/5jnEVQ.jpg",
+     tags: ["React Js","Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Calendly",
+    webapp: "https://calendlysoftware.netlify.app/",
+  } ,
+  
+   {
+    id: 9,
+    title: "NikeWebsite",
+    date: "Jan 2024 - Jan 2024",
+    description:
+      " Responsive design for a seamless experience across all devices.Dynamic content powered by React hooks and state management.Stunning UI crafted with the power of Tailwind CSS and deployed on docker hub also using docker",
+    image: "https://snipboard.io/bipgv0.jpg",
+    tags: ["Docker", "React", "Tailwind CSS"],
+    github: "https://github.com/jiteshjampa/Nike-Website",
+    webapp: "https://nike-elite-feet.netlify.app/",
+  },
+ 
   {
     id: 2,
     title: "TalentConnect",
