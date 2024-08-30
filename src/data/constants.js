@@ -175,7 +175,17 @@ export const education = [
 ];
 
 export const projects = [
- 
+  {
+     id: 11,
+    title: "AI PrepCoach",
+    date: "July 2024 - July 2024",
+    description:
+ "AI-Powered Mock Interviews: Developed an AI-driven platform using Next.js and Gemini AI, automatically generating interview questions based on job descriptions, tech stack, and experience. Features include speech-to-text, React webcam integration, and AI-generated feedback with ratings, correct answers, and improvement suggestions.Advanced Authentication & Data Management: Implemented Clerk for secure authentication with LinkedIn, Google, and GitHub. Used Drizzle ORM for efficient data handling, enabling users to save and review interview recordings, responses, and feedback through a comprehensive dashboard.Modern UI/UX Design: Leveraged ShadCN to create a responsive and intuitive interface, ensuring a seamless user experience. Integrated advanced backend functionality with a clean and professional design to enhance user engagement.",
+     image: "https://snipboard.io/hLxX4Y.jpg",
+     tags: ["Next Js","ShadCN", "Clerk","Gemini AI","Drizzle ORM","PostgreSQL"],
+    github: "https://github.com/jiteshjampa/AI-PrepCoach",
+    webapp: "https://ai-prep-coach.vercel.app/dashboard",
+  },
   {
      id: 5,
     title: "DineDelight",
