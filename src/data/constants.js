@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/jiteshjampa",
   resume:
-    "https://drive.google.com/file/d/17bzsY9wCxIn_7jKmghM6Lb6-5fwJPigQ/view?usp=sharing", 
+    "https://drive.google.com/file/d/1HcQzCEjSA5GrCle5atdHvvlKbcfbHE3r/view?usp=sharing", 
   linkedin: "https://www.linkedin.com/in/jitesh-jampa-4b2701199/",
 
   facebook: "https://www.facebook.com/jiteshreddy.jampa",
