@@ -17,8 +17,9 @@ export const skills = [
     skills: [
       {
         name:"Next Js",
+        image:"https://snipboard.io/z2KPd8.jpg",
        
-      }
+      },
       {
         name: "React Js",
         image:
